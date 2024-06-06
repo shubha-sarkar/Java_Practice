@@ -35,10 +35,10 @@ public class FrequencyOfEachWord {
 
 }
 
-/*Enter the String:
+/*
+Enter the String:
 This is programming website whose name is CodezClub
 Number of words: 8
 The words are {website=1, name=1, CodezClub=1, This=1, is=2, whose=1, programming=1}
 Maximum occurring word: is
-
 */
