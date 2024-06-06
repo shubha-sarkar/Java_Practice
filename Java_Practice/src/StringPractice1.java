@@ -8,6 +8,7 @@ public class StringPractice1 {
 		System.out.println(str.indexOf("$"));
 		System.out.println(str.substring(8));
 		System.out.println(str.substring(8,12));
+		System.out.println(str.indexOf("0"));
 		
 
 	}

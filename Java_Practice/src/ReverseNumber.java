@@ -1,4 +1,4 @@
-public class Test123 {
+public class ReverseNumber {
 
 	public static void main(String[] args) {
     	
@@ -14,3 +14,7 @@ public class Test123 {
 		System.out.println(rev);
     }
 }
+
+/*
+ * OUTPUT: 321
+ */

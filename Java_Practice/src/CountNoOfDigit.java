@@ -9,8 +9,12 @@ public class CountNoOfDigit {
 			n = n / 10;
 			count++;
 		}
-		System.out.print("Number of digits : " +count );
+		System.out.print("Number of digits : " + count);
 
 	}
 
 }
+
+/*
+ * Output: Number of digits : 5
+ */
